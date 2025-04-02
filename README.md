@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project focuses on the metagenomic analysis of the microbiome in the gastrointestinal tract of domestic kuru using data available on NCBI under accession number PRJNA377666.
+This project focuses on the metagenomic analysis of the microbiome in the gastrointestinal tract of domestic chicken using data available on NCBI under accession number PRJNA377666.
 
 ## Input Data
 
