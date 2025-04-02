@@ -1,4 +1,4 @@
-# Metagenomic Analysis of the Gastrointestinal Tract of Domestic Kuru
+# Metagenomic Analysis of the Gastrointestinal Tract of Domestic Chicken
 
 ## Project Description
 
