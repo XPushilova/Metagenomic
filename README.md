@@ -43,7 +43,7 @@ Create a bar chart displaying the sums of individual COG categories for both gra
   ![Cog Category](images/COG_category.png)
 - **Heatmap of Overlapping Genes**: A visualization of the gene intersection between gram-positive and gram-negative bacteria.
   ![Heatmap](images/heat_map_GP.png)
-  ![Heatmap](images/heat_map_GN.png)
+  ![Heatmap](images/heat_map_GN.jpeg)
 
   
 
